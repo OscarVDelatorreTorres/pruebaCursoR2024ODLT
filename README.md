@@ -6,5 +6,12 @@ $$y=2+3.5x+0.7x^2$$
 ## Subítulo 2
 bla bla bla 
 
+```{r }
+# Creamos el objeto a de prueba
+a=5
+# Lo visualizamos o imprimimos
+a
+```
+
 # Conclusiones
 Fin del texto...
