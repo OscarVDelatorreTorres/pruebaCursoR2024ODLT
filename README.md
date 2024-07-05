@@ -4,7 +4,7 @@ Este es un repositorio de prueba para el curso de programación 2024. El mismo s
 
 $$y=2+3.5x+0.7x^2$$
 ## Subítulo 2
-bla bla bla
+bla bla bla 
 
 # Conclusiones
 Fin del texto...
